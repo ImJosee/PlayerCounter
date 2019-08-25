@@ -1,0 +1,7 @@
+servers:
+  lobbies:
+  - 'Lobby'
+  - 'Lobby2'
+  - 'BuildFFA'
+  survival:
+  - 'Survival'

@@ -1,0 +1,5 @@
+name: PlayerCounter
+author: ImJosee_
+main: me.jose.playercounterplus.Main
+version: 1.0
+softdepend: [PlaceholderAPI]
