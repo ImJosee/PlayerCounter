@@ -36,7 +36,7 @@ public class PluginMessage implements PluginMessageListener {
                 }
             }
         } catch (Exception ex) {
-            Bukkit.getConsoleSender().sendMessage("§cHay un servidor que no existe en tu BungeeCord colocado en la config.yml.");
+            Bukkit.getConsoleSender().sendMessage("§cThere is a server that doesnt exists in your BungeeCord on the §econfig.yml");
         }
     }
 

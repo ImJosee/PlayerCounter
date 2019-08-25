@@ -1,7 +1,8 @@
 servers:
   lobbies:
-  - 'Lobby'
-  - 'Lobby2'
-  - 'BuildFFA'
-  survival:
-  - 'Survival'
+  - 'lobby1'
+  - 'lobby2'
+  skywars:
+  - 'sw-lobby'
+  - 'sw-001'
+  - 'sw-002'
